@@ -4,9 +4,9 @@
 <samp>
     😆 Hey! Welcome to my profile
     <br />
-    <br />I am an Android developer. I also like game knowledge, such as Unity and Cocos2dx
+    <br />🛴 I am an Android developer.
     <br />
-    <br />I usually like to play with Java and Kotlin. I also like game knowledge, such as Unity and Cocos2dx
+    <br />🙌 I usually like to use with Java and Kotlin. I also like game knowledge, such as Unity and Cocos2dx
     <br />
 <img src="https://raw.githubusercontent.com/duannianwww/duannianwww/output/github-contribution-grid-snake.svg" alt="duannianwww" />
 </samp>
