@@ -1,6 +1,4 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=2000&size=17&duration=3000&pause=1000&color=F70000&width=435&lines=Exception+in+thread+%22Me%22+NoGirlfriendException" alt="Typing SVG" />
-  <br><br />
 <samp>
     😆 Hey! Welcome to my profile
     <br />
